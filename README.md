@@ -1,4 +1,5 @@
-<img width="498" height="210" alt="the-world-is-yours-ship" src="https://github.com/user-attachments/assets/b34fd168-4536-40c0-845a-d3f3eee591ab" />
+<img width="550" height="100" alt="gif" src="https://github.com/user-attachments/assets/d483930c-3b4c-4ed5-aeae-35d892c6cb2a" />
+
 
 
 
